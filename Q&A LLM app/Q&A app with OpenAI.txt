@@ -1,0 +1,7 @@
+Created a Question and answering app with Open AI API and Lang chain wrapper
+
+Topics covered
+* Connecting the OpenAI and Huggingface model with API Keys
+* Using Langchain to create Prompt Templates
+* Lang chain - Simple Sequential chain, Sequential chain, LLM chain
+* Langchain- chatmodels, output parser
